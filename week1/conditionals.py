@@ -5,7 +5,7 @@
 # if a > 0:
 #   print("a  is positive")
 # elif a < 0:
-#   print ("a is -ve")
+#   print ("a is -ve")git push -u origin main
 # else:
 #   print("a is 0")
 
@@ -73,7 +73,6 @@ elif age2 > age1:
       print(f"you are older by {diff} years")
    else :
       print("you are twinning")
-
 
 else:
   print("you are the same age")
