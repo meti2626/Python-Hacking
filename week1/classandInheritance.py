@@ -45,3 +45,7 @@ s2 = Student('Jane', 'Doe', 22, 'USA', 'Los Angeles')
 
 print(s1.person_info())
 print(s2.person_info()) 
+
+
+
+

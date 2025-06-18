@@ -53,14 +53,19 @@
 
 
 
-def square_number(n):
-     return n*n
-def do_st(f,x):
-     return f(x)
-print(do_st(square_number, 5))  # Output: 25
+# def square_number(n):
+#      return n*n
+# def do_st(f,x):
+#      return f(x)
+# print(do_st(square_number, 5))  # Output: 25
 
-def sn(n):
-     return n*n
-def ds(f , x ):
-      return f(x)
-print (ds(sn , 5))
+# def sn(n):
+#      return n*n
+# def ds(f , x ):
+#       return f(x)
+# print (ds(sn , 5))
+
+
+
+#Modules
+
