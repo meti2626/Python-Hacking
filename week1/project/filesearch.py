@@ -19,5 +19,6 @@ if os.path.isdir(path):
     find_txt_files(path)
 
 else:
-    
     print("The provided path is not a valid directory.")
+
+    
